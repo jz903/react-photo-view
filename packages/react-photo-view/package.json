@@ -1,10 +1,10 @@
 {
-  "name": "react-photo-view",
+  "name": "react-photo-view-orcus",
   "version": "1.2.4",
-  "description": "An exquisite React photo preview component",
+  "description": "An exquisite React photo preview component, forked from MinJieLiu react-photo-view",
   "author": "MinJieLiu",
   "license": "Apache-2.0",
-  "repository": "https://github.com/MinJieLiu/react-photo-view.git",
+  "repository": "https://github.com/jz903/react-photo-view.git",
   "source": "src/index.ts",
   "main": "./dist/react-photo-view.js",
   "module": "./dist/react-photo-view.module.js",
